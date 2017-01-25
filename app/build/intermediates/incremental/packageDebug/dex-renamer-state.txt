@@ -1,0 +1,7 @@
+#Tue Jan 24 10:29:58 WIB 2017
+base.0=/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_97c0ded877fb5658745e49fbea0eb499947ec91b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a7a8494a9a950ecc2fb6d5f82f034113a4466156/classes.dex
+base.1=/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a7a8494a9a950ecc2fb6d5f82f034113a4466156
+file.0=/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_97c0ded877fb5658745e49fbea0eb499947ec91b/classes.dex

@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.fintech.ternaku"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="24" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> <!-- Optional permission for App measurement to run. -->
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <permission
+        android:name="com.fintech.ternaku.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.fintech.ternaku.permission.C2D_MESSAGE" />
+
+    <application
+        android:name="com.fintech.ternaku.TernakPerah.Handler.MyApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.LoginAndRegister.LoginActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="adjustResize|stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.LoginAndRegister.RegisterActivity"
+            android:label="@string/title_activity_register"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.MainActivity"
+            android:label="TernaKu"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.TambahData.Produksi.UpdateWeightActivity"
+            android:label="@string/title_activity_update_weight"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.DetailTernak.DetailTernakMain"
+            android:label="@string/title_activity_detail_ternak_main"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.ListDetailTernak.ListDetailTernakMain"
+            android:label="@string/title_activity_list_detail_ternak_main"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.NavBar.Pakan.AddPakanTernak"
+            android:label="@string/title_activity_add_pakan_ternak"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.NavBar.Keuangan.AddKeuangan"
+            android:label="@string/title_activity_add_keuangan"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.NavBar.BatasProduksiSusu.AddBatasProduksi"
+            android:label="@string/title_activity_add_batas_produksi"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.Laporan.PenggunaanPakan.LaporanPenggunaanPakan"
+            android:label="@string/title_activity_laporan_penggunaan_pakan"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.Laporan.ProduksiSusu.LaporanProduksiSusuGrafik"
+            android:label="@string/title_activity_laporan_produksi_susu_grafik"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.TambahData.PindahTernak.PindahTernak"
+            android:label="@string/title_activity_pindah_ternak"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.TambahData.Kesuburan.AddMengandung"
+            android:label="@string/title_activity_add_mengandung"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.TambahData.Kesuburan.AddInseminasi"
+            android:label="@string/title_activity_add_inseminasi"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.TambahData.Kesuburan.AddPemeriksaanReproduksi"
+            android:label="@string/title_activity_add_pemeriksaan_subur"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.TambahData.Kesuburan.AddMasaSubur"
+            android:label="@string/title_activity_add_masa_subur"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.TambahData.Kesuburan.AddMelahirkan"
+            android:label="@string/title_activity_add_melahirkan"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.TambahData.Kesuburan.AddMenyusui"
+            android:label="@string/title_activity_add_menyusui"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.TambahData.Produksi.UpdateCulling"
+            android:label="@string/title_activity_update_culling"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.TambahData.Produksi.UpdateMasaKering"
+            android:label="@string/title_activity_update_masa_kering"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.TambahData.Kesehatan.AddVaksinasi"
+            android:label="@string/title_activity_add_vaksinasi"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.TambahData.Kesehatan.AddKarantina"
+            android:label="@string/title_activity_add_karantina"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.TambahData.Kesehatan.AddCekPenyakit"
+            android:label="@string/title_activity_add_cek_penyakit"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.TambahData.Kesehatan.AddCekKesehatan"
+            android:label="@string/title_activity_add_cek_kesehatan"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.TambahData.Kesuburan.InjeksiHormon.AddInjeksiHormon"
+            android:label="@string/title_activity_add_injeksi_hormon"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.TambahData.Kesuburan.InjeksiHormon.ShowInjeksiHormon"
+            android:label="@string/title_activity_show_injeksi_hormon"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.TambahData.Kesehatan.ProtocolKesehatan.ShowProtokolKesehatan"
+            android:label="@string/title_activity_show_protokol_kesehatan"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.TambahData.Kesehatan.ProtocolKesehatan.AddProtokolKesehatan"
+            android:label="@string/title_activity_add_protokol_kesehatan"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.NavBar.ProduksiSusu.AddProduksiSusu"
+            android:label="@string/title_activity_add_produksi_susu"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.Laporan.Keuangan.LaporanKeuangan"
+            android:label="@string/title_activity_laporan_keuangan"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.NavBar.Peternak.AddPeternak"
+            android:label="@string/title_activity_add_peternak"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.NavBar.Ternak.InsertTernak"
+            android:label="@string/title_activity_insert_ternak"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.TambahData.PindahTernak.AddKandang"
+            android:label="@string/title_activity_add_kandang"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.TambahData.PindahTernak.AddKawanan"
+            android:label="@string/title_activity_add_kawanan"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.Pengingat.AddReminderActivity"
+            android:label="Add Reminder"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.Pengingat.ViewReminderActivity"
+            android:label="View Reminder"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.Setting.SetPrefs"
+            android:label="Pengaturan" />
+        <activity
+            android:name="com.fintech.ternaku.Setting.ChangePasswordActivity"
+            android:label="Ganti Password"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.Setting.UpdatePeternakActivity"
+            android:label="Ganti Data Akun"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.Setting.UpdatePeternakanActivity"
+            android:label="Ganti Data"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.Laporan.Keuangan.LaporanKeuanganGrafik"
+            android:label="@string/title_activity_laporan_keuangan_grafik"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.NavBar.CalendarToDoList.CalendarToDoActivity"
+            android:label="@string/title_activity_calendar_to_do"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.DetailTernak.Task.AddTaskTernak"
+            android:label="@string/title_activity_add_task_ternak"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.fintech.ternaku.RequestTransactionActivity"
+            android:label="Request Pembayaran"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <service android:name="com.fintech.ternaku.TernakPerah.FCM.MyFirebaseMessagingService" >
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name="com.fintech.ternaku.TernakPerah.FCM.MyFirebaseInstanceIDService" >
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.fintech.ternaku.TernakPerah.Main.Scheduler.AlarmService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity
+            android:name="com.fintech.ternaku.SplashscreenActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="@string/title_activity_splashscreen"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Main.Scheduler.AddScheduleActivity"
+            android:label="@string/title_activity_add_schedule"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <receiver android:name="com.fintech.ternaku.TernakPerah.Main.Scheduler.AlarmReceiver" />
+
+        <activity
+            android:name="com.fintech.ternaku.Setting.BluetoothActivity"
+            android:label="@string/title_activity_bluetooth"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.fintech.ternaku.Setting.BluetoothAct"
+            android:label="@string/title_activity_bluetooth"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Alarm.ShowAlarmActivity"
+            android:label="@string/title_activity_show_alarm"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPerah.Alarm.ShowCalendarActivity"
+            android:label="@string/title_activity_show_calendar"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPotong.SapiPotongAddKomposisiPakan"
+            android:label="@string/title_activity_sapi_potong_add_komposisi_pakan"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPotong.BeratBadanActivity"
+            android:label="@string/title_activity_sapi_potong_add_komposisi_pakan"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPotong.ADG.ViewADG"
+            android:label="@string/title_activity_view_adg"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPotong.KompisisiPakan.KomposisiPakanActivity"
+            android:label="@string/title_activity_komposisi_pakan"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.fintech.ternaku.TernakPotong.AddPakan.AddPakanPedaging"
+            android:label="@string/title_activity_add_pakan_pedaging"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.fintech.ternaku.Setting.EditTernakActivity"
+            android:label="@string/title_activity_edit_ternak"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:windowSoftInputMode="adjustResize|stateHidden" />
+        <activity
+            android:name="com.fintech.ternaku.Market.MarketMainActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:label="MarketMainActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <!--
+         FirebaseMessagingService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.ConfirmRecoverPasswordActivity"
+            android:label="@string/title_confirm_recover_password_activity"
+            android:theme="@style/FirebaseUI.Dialog" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.EmailHintContainerActivity"
+            android:label="@string/default_toolbar_title"
+            android:theme="@style/FirebaseUI.Translucent" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.RecoverPasswordActivity"
+            android:label="@string/title_recover_password_activity"
+            android:theme="@style/FirebaseUI" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.RegisterEmailActivity"
+            android:label="@string/title_register_email_activity"
+            android:theme="@style/FirebaseUI" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.SignInNoPasswordActivity"
+            android:label="@string/title_sign_in_no_password_activity"
+            android:theme="@style/FirebaseUI" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.email.SignInActivity"
+            android:label="@string/title_sign_in_activity"
+            android:theme="@style/FirebaseUI" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.account_link.SaveCredentialsActivity"
+            android:label="@string/default_toolbar_title"
+            android:theme="@style/FirebaseUI.Translucent" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.account_link.WelcomeBackIDPPrompt"
+            android:label="@string/title_welcome_back_idp_prompt"
+            android:theme="@style/FirebaseUI" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.account_link.WelcomeBackPasswordPrompt"
+            android:label="@string/title_welcome_back_password_prompt"
+            android:theme="@style/FirebaseUI" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity"
+            android:label="@string/default_toolbar_title"
+            android:theme="@style/FirebaseUI" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.idp.IDPSignInContainerActivity"
+            android:label="@string/default_toolbar_title"
+            android:theme="@style/FirebaseUI.Translucent" />
+        <activity
+            android:name="com.firebase.ui.auth.ui.ChooseAccountActivity"
+            android:label="@string/default_toolbar_title"
+            android:theme="@style/FirebaseUI.Translucent" />
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@style/FirebaseUI.Translucent" />
+        <activity
+            android:name="com.facebook.CustomTabActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="@string/facebook_login_protocol_scheme" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+            android:excludeFromRecents="true"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <!--
+Service handling Google Sign-In user revocation. For apps that do not integrate with
+            Google Sign-In, this service will never be started.
+        -->
+        <service
+            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+            android:exported="true"
+            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+        <service
+            android:name="com.google.firebase.crash.internal.service.FirebaseCrashReceiverService"
+            android:process=":background_crash" />
+        <service
+            android:name="com.google.firebase.crash.internal.service.FirebaseCrashSenderService"
+            android:process=":background_crash" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.measurement.UPLOAD" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="com.fintech.ternaku" />
+            </intent-filter>
+        </receiver>
+        <!--
+ Internal (not exported) receiver used by the app to start its own exported services
+             without risk of being spoofed.
+        -->
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+            android:exported="false" />
+        <!--
+ FirebaseInstanceIdService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.fintech.ternaku.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+    </application>
+
+</manifest>

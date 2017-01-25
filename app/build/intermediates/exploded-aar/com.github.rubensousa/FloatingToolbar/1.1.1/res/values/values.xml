@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FloatingToolbar"><attr format="boolean" name="floatingToastOnLongClick"/><attr format="boolean" name="floatingHandleFabClick"/><attr format="reference" name="floatingMenu"/><attr format="reference" name="floatingItemBackground"/><attr format="reference" name="floatingCustomView"/></declare-styleable>
+</resources>

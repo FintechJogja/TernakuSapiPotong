@@ -1,0 +1,974 @@
+[
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_laporan_penggunaan_pakan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_laporan_penggunaan_pakan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/sign_in_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.5.3/res/layout/sign_in_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_show_detail_schedule.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_show_detail_schedule.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_pindah_ternak.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_pindah_ternak.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/fragment_firebase_login.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.5.3/res/layout/fragment_firebase_login.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/layout_profile.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/layout_profile.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_task_ternak.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_task_ternak.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_request_transaction.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_request_transaction.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/indicator_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/res/layout/indicator_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/day_list_item.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.p_v/flexiblecalendar/1.2.1/res/layout/day_list_item.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_main.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/footer_listview.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/footer_listview.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_view_reminder.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_view_reminder.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/render_type_text.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/res/layout/render_type_text.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/month_grid_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.p_v/flexiblecalendar/1.2.1/res/layout/month_grid_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_show_protokol_kesehatan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_show_protokol_kesehatan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_update_weight.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_update_weight.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_inseminasi.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_inseminasi.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_pakan_pedaging.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_pakan_pedaging.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_kawanan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_kawanan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/list_kawanan_pindah_ternak.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/list_kawanan_pindah_ternak.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/holder_list_addpakan_pedaging.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/holder_list_addpakan_pedaging.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/view_expandable.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.github.traex.expandablelayout/library/1.2.2/res/layout/view_expandable.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_bluetooth.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_bluetooth.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/idp_button_facebook.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.5.3/res/layout/idp_button_facebook.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_peternak.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_peternak.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_detail_ternak_main.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_detail_ternak_main.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_update_masa_kering.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_update_masa_kering.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_pemeriksaan_reproduksi.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_pemeriksaan_reproduksi.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_kandang.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_kandang.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/holder_list_protocol.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/holder_list_protocol.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_karantina.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_karantina.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/fragment_dashboard.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_menyusui.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_menyusui.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/holder_list_komposisi_add_pakan_pedaging.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/holder_list_komposisi_add_pakan_pedaging.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_calendar.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_calendar.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_update_culling.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_update_culling.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_mengandung.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_mengandung.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/app_bar_main.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_pemeriksaan_reproduksi.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_pemeriksaan_reproduksi.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/forgot_password_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.5.3/res/layout/forgot_password_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_laporan_produksi_susu_grafik.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_laporan_produksi_susu_grafik.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_list_detail_ternak_main.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_list_detail_ternak_main.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_kawanan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_kawanan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/list_kandang_pindah_ternak.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/list_kandang_pindah_ternak.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_cek_kesehatan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_cek_kesehatan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/list_komposisi_addpakanpedaing.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/list_komposisi_addpakanpedaing.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/holder_list_kandang_pindah_ternak.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/holder_list_kandang_pindah_ternak.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_laporan_penggunaan_pakan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_laporan_penggunaan_pakan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_market_main.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_market_main.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/layout_main_activity_menu_utama.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/layout_main_activity_menu_utama.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/holder_list_reminder.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/holder_list_reminder.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_update_masa_kering.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_update_masa_kering.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/expandable_view.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.github.nicolasjafelle/expandableview/1.0/res/layout/expandable_view.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_view_adg.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_view_adg.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_keuangan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_keuangan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_laporan_keuangan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_laporan_keuangan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/dialog_numberpicker.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/dialog_numberpicker.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/delete_credential.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.5.3/res/layout/delete_credential.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_karantina.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_karantina.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_masa_subur.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_masa_subur.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/dialog_list.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.orhanobut/dialogplus/1.11/res/layout/dialog_list.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_edit_ternak.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_edit_ternak.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_protokol_kesehatan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_protokol_kesehatan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/confirm_recovery_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.5.3/res/layout/confirm_recovery_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_splashscreen.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_splashscreen.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/holder_list_laporan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/holder_list_laporan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/filter_header.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/filter_header.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_keuangan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_keuangan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_pakan_ternak.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_pakan_ternak.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/register_email_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.5.3/res/layout/register_email_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/nav_header_main.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_bluetooth.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_bluetooth.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_melahirkan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_melahirkan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/sort_header.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/sort_header.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/auth_method_picker_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.5.3/res/layout/auth_method_picker_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_update_peternakan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_update_peternakan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_show_injeksi_hormon.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_show_injeksi_hormon.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_masa_subur.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_masa_subur.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_bluetooth2.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_bluetooth2.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/slider_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/res/layout/slider_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_update_peternak.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_update_peternak.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_update_weight.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_update_weight.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/email_hint_container_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.5.3/res/layout/email_hint_container_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/custom_marker_view.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/custom_marker_view.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_bluetooth2.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_bluetooth2.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_view_reminder.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_view_reminder.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_cek_penyakit.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_cek_penyakit.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_berat_badan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_berat_badan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_melahirkan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_melahirkan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_show_protokol_kesehatan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_show_protokol_kesehatan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_peternak.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_peternak.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_laporan_keuangan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_laporan_keuangan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_view_adg.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_view_adg.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/fragment_show_reminder.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/fragment_show_reminder.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_menyusui.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_menyusui.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_sapi_potong_add_komposisi_pakan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_sapi_potong_add_komposisi_pakan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/render_type_default.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/res/layout/render_type_default.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/fragment_add_data.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/fragment_add_data.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/layout_task.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/layout_task.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/dialog_picker_laporan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/dialog_picker_laporan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_produksi_susu.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_produksi_susu.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_protokol_kesehatan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_protokol_kesehatan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_laporan_produksi_susu_grafik.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_laporan_produksi_susu_grafik.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_change_password.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_change_password.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_update_culling.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_update_culling.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_komposisi_pakan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_komposisi_pakan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/layout_listdetailternak_list.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/layout_listdetailternak_list.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_mengandung.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_mengandung.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_pindah_ternak.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_pindah_ternak.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_insert_ternak.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_insert_ternak.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/square_cell_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.p_v/flexiblecalendar/1.2.1/res/layout/square_cell_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/dialog_view.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.orhanobut/dialogplus/1.11/res/layout/dialog_view.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/welcome_back_password_prompt_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.5.3/res/layout/welcome_back_password_prompt_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/dialog_input_name.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/dialog_input_name.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_list_detail_ternak_main.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_list_detail_ternak_main.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_berat_badan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_berat_badan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/holder_list_task.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/holder_list_task.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_detail_ternak_main.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_detail_ternak_main.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/layout_main_activity_monitor.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/layout_main_activity_monitor.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/filter_footer.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/filter_footer.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/dialog_grid.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.orhanobut/dialogplus/1.11/res/layout/dialog_grid.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/fragment_laporan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/fragment_laporan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/holder_list_kawanan_pindah_ternak.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/holder_list_kawanan_pindah_ternak.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_laporan_keuangan_grafik.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_laporan_keuangan_grafik.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/layout_event_list.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/layout_event_list.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/alert_dialog.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/cn.pedant.sweetalert/library/1.3/res/layout/alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_cek_kesehatan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_cek_kesehatan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_show_alarm.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_show_alarm.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_kandang.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_kandang.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_insert_ternak.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_insert_ternak.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_vaksinasi.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_vaksinasi.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_schedule.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_schedule.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_pakan_pedaging.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_pakan_pedaging.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_task_ternak.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_task_ternak.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_injeksi_hormon.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_injeksi_hormon.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/signin_no_password_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.5.3/res/layout/signin_no_password_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_edit_ternak.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_edit_ternak.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/sort_footer.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/sort_footer.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/temp.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/temp.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_show_prefs.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_show_prefs.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/layout_calendar_activity_holderlist.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/layout_calendar_activity_holderlist.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_calendar.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_calendar.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_calendar_cell_view.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_calendar_cell_view.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_show_alarm.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_show_alarm.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_update_peternak.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_update_peternak.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_injeksi_hormon.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_injeksi_hormon.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/holder_list_adg.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/holder_list_adg.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_show_detail_schedule.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_show_detail_schedule.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/layout_susu.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/layout_susu.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_pakan_ternak.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_pakan_ternak.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_reminder.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_reminder.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_laporan_keuangan_grafik.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_laporan_keuangan_grafik.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/save_credentials_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.5.3/res/layout/save_credentials_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_vaksinasi.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_vaksinasi.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_sapi_potong_add_komposisi_pakan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_sapi_potong_add_komposisi_pakan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_schedule.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_schedule.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_cek_penyakit.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_cek_penyakit.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_produksi_susu.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_produksi_susu.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_komposisi_pakan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_komposisi_pakan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_calendar_to_do.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_calendar_to_do.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_batas_produksi.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_batas_produksi.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/number_picker_dialog.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/number_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_show_calendar.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_show_calendar.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_change_password.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_change_password.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/base_container.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.orhanobut/dialogplus/1.11/res/layout/base_container.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/idp_button_google.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.5.3/res/layout/idp_button_google.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_add_inseminasi.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_add_inseminasi.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/layout_event.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/layout_event.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/searchable_list_dialog.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.toptoche.searchablespinner/searchablespinnerlibrary/1.3.1/res/layout/searchable_list_dialog.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/welcome_back_idp_prompt_layout.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.5.3/res/layout/welcome_back_idp_prompt_layout.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_show_calendar.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_show_calendar.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_calendar_to_do.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_calendar_to_do.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_reminder.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_reminder.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_request_transaction.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_request_transaction.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_show_injeksi_hormon.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_show_injeksi_hormon.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/activity_update_peternakan.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/activity_update_peternakan.xml"
+    },
+    {
+        "merged": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/res/merged/debug/layout/content_add_batas_produksi.xml",
+        "source": "/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/src/main/res/layout/content_add_batas_produksi.xml"
+    }
+]

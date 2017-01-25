@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AreaChart"><attr format="boolean" name="show_datapoints"/></declare-styleable>
+    <declare-styleable name="DonutChart"><attr format="integer" name="pieInnerCircleRatio"/></declare-styleable>
+    <declare-styleable name="SemiCircle"><attr format="integer" name="semiInnerCircleRatio"/><attr format="boolean" name="semi_circle"/></declare-styleable>
+    <string name="app_name">NumAndroidCharts</string>
+</resources>

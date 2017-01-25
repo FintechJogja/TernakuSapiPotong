@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="29359875758980"
+    token="5556574896644344409"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="2872" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="2905" />
+    <task
+        name="verifier"
+        duration="567" />
+
+    <artifact
+        location="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="29359875758980"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

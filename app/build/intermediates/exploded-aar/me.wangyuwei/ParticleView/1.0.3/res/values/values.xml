@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ParticleView"><attr format="string" name="pv_host_text"/><attr format="string" name="pv_particle_text"/><attr format="dimension" name="pv_particle_text_size"/><attr format="color" name="pv_text_color"/><attr format="color" name="pv_background_color"/><attr format="integer" name="pv_text_anim_time"/><attr format="integer" name="pv_spread_anim_time"/><attr format="integer" name="pv_host_text_anim_time"/></declare-styleable>
+    <string name="app_name">ParticalView</string>
+</resources>

@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.orhanobut/dialogplus/1.11/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="184f86117c6463267c1f0deba84d4853cb165c40">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.orhanobut-dialogplus-1.11_68c4cc5ccdab476d725329833c2e588d5f0c4c4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/cn.pedant.sweetalert/library/1.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/cn.pedant.sweetalert-library-1.3_f9a2305789f2b73eab7d09019f179eac6924bbd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_4a4b2ae897c513eaa1d9758fb6d4abf31a8b7a1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.4.0_e0ba63533a6bc96c6918db152551eb729b0d6350/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_cd75550b53a33848be416101726b487c423ceb62/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_8a3c6baad84295ad942ada7ab670a49b76a46d6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_eb2fb6bd1d38f464e6784bcd437e4ffe191cf8e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_85f70463fc0c05854bfdb67328e65b75ff440828/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_e605e4070ee38a38966a16f557ba8dce2be92a5e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.github.rubensousa/FloatingToolbar/1.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a6aff0bf97be3be15b610a496880a3da3f303fbc">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.rubensousa-FloatingToolbar-1.1.1_6605c319e4b261e91a7d14d1a5fa0ba361f26aa0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/me.aflak.libraries/bluetooth/1.2.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="41e1b1b44d81b6efc6573afa7ec6cd669b78a80f">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.aflak.libraries-bluetooth-1.2.4_5c847ab424184d73b106ee8b94e0d4aff941387c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_6ba705d2852cfecd96d33d30f35faa6d6ede5f26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.daimajia.slider/library/1.1.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.daimajia.slider-library-1.1.5_ca761ba66c4bbbd306becbc45de3b1e428c8ad05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_d431ca334f14a3c125b4ca0ea1ee6b87b52df516/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_22d606f3a90bc7c2cc2a41630b19dc0ec5588e51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_9647061b5012022dc42daf63fa578709f0048c28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.toptoche.searchablespinner/searchablespinnerlibrary/1.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dbfaa66636f1fadb6cff4080a3a271e97f288340">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.toptoche.searchablespinner-searchablespinnerlibrary-1.3.1_4f5cd83c80e196ccd989e0ee09fc71a1fd74fa17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.4.0_3f80c7d6a023de4ae596f01649d657395dd521bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_25feac4f148b489673daa63b944b2ce6ef1bc1ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.5.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4d1eef77feb4f5eb598bc3eed8b55c93f04f08e5">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-auth-0.5.3_78fe743355f3656cf654e84975c2f501ad5f4f5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.github.dmytrodanylyk.shadow-layout/library/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1c60de8bde1c6418e32a952b669df6975ff6fdca">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.dmytrodanylyk.shadow-layout-library-1.0.1_e3d7a5141e13116dd8a19628656df2f59a76703d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_f69180863241f41e67955b895c1bfe492f88d4eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.numetriclabz.numandroidcharts/numandroidcharts/1.0.12/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ce9080621c97093445919069a01feb9a8b987252">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.numetriclabz.numandroidcharts-numandroidcharts-1.0.12_ffaa7911d16efddd64f2949f28f6ece67a3f7315/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_40631d5407862d2a0ee02ce6cf7ceea0750454ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_4f35e6213d083e901cbc646004e7104f6824dac2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.4.0_dcf28638b5c8f03219e7838111056ea5d9aeb8cb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/pl.pawelkleczkowski.customgauge/CustomGauge/1.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4bb8df3f3a6478f73c6160c4ba0bdaccf9b00f6d">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/pl.pawelkleczkowski.customgauge-CustomGauge-1.0.3_ff9305d5ad1792781931e7faf46979c6dfc9038b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_44473da9836f87302069e35dacaa9f830976c5cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.github.traex.expandablelayout/library/1.2.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="abeff860f55e6b771b5053b593886c20bbc3fe84">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.traex.expandablelayout-library-1.2.2_dd503b684388a947183f58244d3e7b2ae14621bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.github.aakira/expandable-layout/1.4.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b8ba0b9f0aa49a9180676e72ad6767473b15f74a">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.aakira-expandable-layout-1.4.2_7d9ab53101d4d1e955b306a0a76adfa5fe6f8403/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/me.wangyuwei/ParticleView/1.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="91997e7271a17f784903a309d4f4ae5e48d250a7">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.wangyuwei-ParticleView-1.0.3_fcbd83c66a6449c24d543b13a72c55c4db2d64b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.4.0_4ac517f273c6bf9255da5ed7d6a66bc172a47900/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_03567a6c30b6a7c1feb4fa028e5807b83c24d780/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.getbase/floatingactionbutton/1.10.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.getbase-floatingactionbutton-1.10.1_9d45210b329b19bf6d6ace2f3bc5eb585b174dfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.android-facebook-android-sdk-4.14.1_7b6ab3db7dbc81e4c8629846bde82cf5dae287de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/me.wangyuwei/LoadingiVew/1.0.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="53adfe1bfd15de303673986ff80ad7b33f44c712">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/me.wangyuwei-LoadingiVew-1.0.5_a6c60c0eef8184b79219f4fe8263b0be563ca7d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_db6869d46f09a47c0ba5d061ce28b4b28b53558b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_b90609cbceca886a7a7c3a1f7a57df8118f88eb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d38eb72d91541d154d03dc397702bd83bb9b14b6">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_97c0ded877fb5658745e49fbea0eb499947ec91b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_8c403005b0ac7161d4d510d7ec33b9c41f9172b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.3.2_0684ba80c67ac5e9719cf39e73583bb2c3a90a46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_abd9cf4aab0a5b5602271bf73513dfd68b310539/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/cn.fanrunqi/waveprogress/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cb6562c391fa168727b187347823f771c53d1ad9">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/cn.fanrunqi-waveprogress-1.0.1_6574537cc9f958aefc304c5004f0363d6bb9ff17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="af58b20b52716ab4c1d3835c9d616ce6a7644f3c">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a7a8494a9a950ecc2fb6d5f82f034113a4466156/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.github.markushi/circlebutton/1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ebe3b1f14fa79ba3cd1588acda4e6517ee9fe611">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.markushi-circlebutton-1.1_e9a43e870ae07505eb31186836a9a1bf795868d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.github.devlight.navigationtabbar/navigationtabbar/1.2.5/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="adcfc6510c35c66e96b7b376f3faf007a164fe7c">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.devlight.navigationtabbar-navigationtabbar-1.2.5_79084d1de10dc4921a5ee0f774588ac106e07456/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.5.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbed8999711c2ea4a32aebfb9541e9873b5a83ca">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-0.5.3_9a2f7af73f83350c3d53dcb855a964f8e3c68ae8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-2.4_db9d9c7f5dc9abc44c05f9a56b43532b2a4af315/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_3ce3788e28f03181c6e86c31ebfa276a8e3b3dfc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_da53e96e26d9f24059d6341c9ae9daa9bcb854c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.4/3cc424c6eda381bf4aee40dc3ccdecc27b2106aa/rxjava-1.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="3cc424c6eda381bf4aee40dc3ccdecc27b2106aa">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.1.4_2028e8ffb90e671367052590fb34573f0e09d367/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_69708fdaeaaea85261c8efb75674658efb8a7180/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_528e5f4531c234843786932e9a9b7ac2c31f43bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_5f63e4f7dfa9391321825b0281bd95e507d3fa60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_13a673088c5c6449214e7954e1ef3b298b65e609/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.github.nicolasjafelle/expandableview/1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="eef659605404a0067dc0d4b997e6bf78089c410f">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.nicolasjafelle-expandableview-1.0_9083350868c2e0283d0c0ea4379a9afc7b697cfb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/.gradle/caches/modules-2/files-2.1/joda-time/joda-time/2.9.4/1c295b462f16702ebe720bbb08f62e1ba80da41b/joda-time-2.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1c295b462f16702ebe720bbb08f62e1ba80da41b">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/joda-time-2.9.4_94699877c88715a43174fc4f3bbc2dbd2054f163/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-customtabs-23.4.0_54a59053ba7b16a7870d4db032e9e0c11e972f02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.pnikosis-materialish-progress-1.0_0132cd3e8826e0664beae634657dd06dbfc9d66c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.github.lecho/hellocharts-android/v1.5.8/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="838172f1d23787cc52bb558ef989605bc2aecf62">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.lecho-hellocharts-android-v1.5.8_94c05a9c566a212d7e0805a8e696e839637946b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.5.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d729037ff4a83220d1f706356ff0dbe4b85e0d73">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-database-0.5.3_6fb7b711e41e0012fe1ce3ddb475e02c7490ee79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_2d58d7842970cc814c5157089f7387a83bac7edb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_cfc03cc079dda653173f9238cbfcc45f9a777054/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.github.mancj/SlideUp-Android/1.0-beta/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="dd06ea8e63ca57950cb7374338e1df2472b6353f">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.mancj-SlideUp-Android-1.0-beta_148915e18b68cd5e6f14151892f0477034f20a5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="927e8ef5711b115b65b2f35495d77352be2b3c09">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/io.reactivex-rxandroid-1.2.0_61a06bc25e0be6c91226a015a94cf2990184c110/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_7a8dce01b0b8dd7812d0e9297c6d92ac7996070d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/exploded-aar/com.p_v/flexiblecalendar/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1e2e5e974860c37a7082de985dbe8b4d65d55678">
+        <dex dex="/Users/pandu/Desktop/Ternaku New (09_01_17)/Pisah/Ternak Potong/Data/TernaKuMobile-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.p_v-flexiblecalendar-1.2.1_fae083e500ff4d2fdd18f8fea8186f2e71102800/classes.dex" />
+    </item>
+
+</items>
